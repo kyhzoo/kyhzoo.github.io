@@ -1,9 +1,14 @@
-body {
-background-color: black;
-font-family: Georgia;
+.body1 {
+background-color: #EAECEE
 }
 
 .header {
+background-color: #EAECEE;
+font-family: Georgia;
+color: black;
 text-align: center;
-color: white;
+}
+
+.button1 {
+text-align: center;
 }

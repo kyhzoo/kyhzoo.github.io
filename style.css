@@ -1,15 +1,21 @@
 body {
-background-color: #EAECEE
+background-color: #000;
 }
-
+        
 .header {
-background-color: #EAECEE;
-font-family: Georgia;
-color: black;
+background-color: #000;
+font-family: 'Rock Salt', cursive;
+color: white;
 text-align: center;
+font-size: 250%;
 }
 
-.button1 {
+.main {
+position: relative;
+}
+
+.table1 {
 text-align: center;
-font-family: Georgia;
+font-size: 125%;
+font-family: courier-new;
 }

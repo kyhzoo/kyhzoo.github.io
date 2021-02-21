@@ -1,0 +1,21 @@
+body {
+background-color: #fff;
+}
+        
+.header {
+background-color: #fff;
+font-family: 'Rock Salt', cursive;
+color: black;
+text-align: center;
+font-size: 250%;
+}
+
+.main {
+position: relative;
+}
+
+.table1 {
+text-align: center;
+font-size: 125%;
+font-family: courier-new;
+}
